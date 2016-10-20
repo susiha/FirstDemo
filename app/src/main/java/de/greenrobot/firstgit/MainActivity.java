@@ -10,6 +10,9 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    /***
+     * 封板！！
+     */
     Button doubel;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
